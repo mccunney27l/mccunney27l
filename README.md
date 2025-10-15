@@ -1,6 +1,5 @@
 ## Hi there👋
-My name is and I am currently very invested in science in my life. I am interested in psychology, biology, chemistry, neuroscience, and biochemistry and I plan to pursue something involved with psychology or biology for my career later in life.
-
+I am a smart and kind individual who is very interested in science. To go more into detail, I am mostly invested in areas of psychology, but also biology, chemistry, neuroscience, neurology, and biochemistry. I plan to pursue a career in one of these very interesting fields later in life. Currently though, I am learning how to code different AI models as well as learning more in depth about machine and deep learning.
 <!--
 **mccunney27l/mccunney27l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
