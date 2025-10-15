@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there👋
+My name is Liam McCunney and I am currently a junior at the North Carolina School of Science and Math. I am interested in psychology, biology, chemistry, neuroscience, and biochemistry and I plan to pursue something involved with psychology or biology for my career later in life.
 
 <!--
 **mccunney27l/mccunney27l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
